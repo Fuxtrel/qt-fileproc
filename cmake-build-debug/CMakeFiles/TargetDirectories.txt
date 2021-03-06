@@ -1,0 +1,4 @@
+/home/alex/CLionProjects/qt-fileproc/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/alex/CLionProjects/qt-fileproc/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/alex/CLionProjects/qt-fileproc/cmake-build-debug/CMakeFiles/qt-fileproc.dir
+/home/alex/CLionProjects/qt-fileproc/cmake-build-debug/CMakeFiles/qt-fileproc_autogen.dir
